@@ -1,0 +1,15 @@
+{
+        "search-terms": ["Retweet and win", "retweet and you could win", "rt for your chance to win"],
+        "follow-keywords": [" follow ", " follower ", "following"],
+        "fav-keywords": [" fav ", " favorite "," like "],
+        "scan-update-time": 80,
+        "retweet-update-time": 80,
+        "rate-limit-update-time": 80,
+        "min-ratelimit":17,
+        "min-ratelimit-retweet":80,
+        "min-ratelimit-search":79,
+	"consumer-key": "key",
+	"consumer-secret": "token",
+	"access-token-key": "token key",
+	"access-token-secret": "token secret"
+}
